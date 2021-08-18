@@ -1,0 +1,28 @@
+.search{
+    color:#79c6c7;
+    border-radius:20px;
+    border:2px solid #79c6c7;
+    width:12.5%;
+    margin-top:3%;
+    margin-left:5%;
+}
+.add{
+    border-radius:50%;
+    background-color:#00d1b2;
+    color:white;
+    border:0;
+    padding:20px,20px;
+    margin-top:1%;
+    margin-left:5%;
+}
+
+.send{
+    margin-top:1%;
+    margin-left:5%;
+    color:white;
+    background-color:#2b78e4; 
+    border:2px solid black;
+    box-shadow:3px 2px 1px black;
+    padding:5px 5px;
+    width:14%;
+}
